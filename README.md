@@ -114,9 +114,7 @@ I'm continuously learning and improving my skills in:
 I'm always happy to connect with fellow students, developers, data enthusiasts, and anyone interested in technology and data. ☕✨
 
 📧 Email: [davinaoktaviani1810@gmail.com](mailto:davinaoktaviani1810@gmail.com)
-
 💼 LinkedIn: [www.linkedin.com/in/davina-oktaviani-664419326](https://linkedin.com)
-
 🐙 GitHub: [github.com/davinaoktaviani](https://github.com)
 
 ---
