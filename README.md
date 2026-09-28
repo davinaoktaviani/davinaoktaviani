@@ -8,7 +8,7 @@ I'm currently exploring Data Science through data analysis, machine learning, an
 
 ---
 
-## 🌷 A Little About Me
+## 🌟 A Little About Me
 
 I'm a Data Science student with an interest in:
 
